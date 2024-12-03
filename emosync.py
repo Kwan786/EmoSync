@@ -68,6 +68,7 @@ def initialize_session_state():
 
 def setup_gemini_model() -> None:
     """Setup Gemini model with API key and custom prompt configuration"""
+    api_key = st.secrets["GEMINI_API_KEY"]
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         st.error("GEMINI_API_KEY not found in environment variables")
