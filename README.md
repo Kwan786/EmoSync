@@ -1,8 +1,13 @@
 # Project Title
 
-One Paragraph of project description goes here
+An AI CHATBOT called "emosync"
 
-## Getting Started
+## AI Nusantara Workshop
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+End Date: November 13th, 2024
+Duration: 5 days
+Task: Implementing AI into the application
 
+### Link for the "emosync" chatbot
+
+https://chatbot-c8yerf5mtl4rriuaxqxwru.streamlit.app/ 
